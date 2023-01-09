@@ -1,3 +1,12 @@
+# ChatGPT, prepare the library to be called on Rasa Action function
+
+```
+The purpose of this change is to prepare the library to be called inside the async run function in Rasa.
+```
+
+- __main__.py is just changed a little bit, nothing else.
+- You can check example.py to see how to call the function.
+
 # ChatGPT <img src="https://github.com/acheong08/ChatGPT/blob/main/logo.png?raw=true" width="7%"></img>
 
 [![PyPi](https://img.shields.io/pypi/v/revChatGPT.svg)](https://pypi.python.org/pypi/revChatGPT)
